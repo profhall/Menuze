@@ -13,9 +13,10 @@ export default function App() {
     <Provider>
       <div className="menu">
         <Logo />
+        <h2>100% Vegan Soul Fusion Food</h2>
         <Mains meals={menu.mains} />
         <aside className="aside">
-          <Extras type="Sides" items={menu.sides} />
+          <Extras type="Edibles" items={menu.edibles} />
           <Extras type="Drinks" items={menu.drinks} />
         </aside>
         {/* <Total /> */}

@@ -1,23 +1,93 @@
 {
   "mains": [
+    
     {
-      "name": "The Caesar",
-      "description": "Crisp romaine lettuce tossed with our homemade Caesar dressing, croutons, and shredded parmesan cheese.",
-      "price": "19"
+      "name": "Sampler Platter",
+      "description": "The sampler is a combination of differnt menu items. Ask us what is on the Sampler today!",
+      "price": "20",
+      "img": ""
+    },
+    {
+      "name": "Nachos Supreme",
+      "description": "Corn chips smothered in our homemade vegan Rotel cheese sauce, made with dairy-free cheese, green and red chilis, walnut taco meat, and topped with pico de gallo, crema, and jalapeños. \n\nUpgrade to Super Nachos for +5 and get topped with your choice of vegan 'meat'.",
+      "price": "15",
+      "img": ""
+    },
+    {
+      "name": "Quesa Tacos (3)",
+      "description": "3 tortillas dipped in enchilada chili sauce, filled with vegan cheese, Sante Fé Chikun Mix ( jackfruit, onion, bell pepper, Bella mushroom, garlic), and toasted to perfection. Served with Avocado Crema & Pico De Gallo. \nComes with flour tortillas, gluten-free option available",
+      "price": "15",
+      "img": ""
+    },
+    {
+      "name": "Phish Sliders (3)",
+      "description": "Banana flowers seasoned and fried to perfection topped with our cajun coleslaw and tartar sauce.",
+      "price": "15",
+      "img": ""
+    },
+    {
+      "name": "Kalamari (Seafood) Tacos (3)",
+      "description": "Vegan Calamari (Enoki mushrooms) seasoned and fried to perfection wrapped in a corn tortilla and topped with Baja slaw, TTPBK sauce, and feta crumbles!",
+      "price": "15",
+      "img": ""
+    },
+  
+    {
+      "name": "Caribbean Beeph Patty",
+      "description": "Jerk walnut meat wrapped inside a yummy biscuit crust. Jerk Empanada",
+      "price": "5",
+      "img": ""
+    }
+    ,
+  
+    {
+      "name": "Sampler Platter",
+      "description": "The sampler is a combination of differnt menu items. Ask us what is on the Sampler today!",
+      "price": "20",
+      "img": ""
     }
   ],
   "sides": [
     {
       "name": "Fries",
-      "price": "5"
+      "price": "5",
+      "img": ""
     }
   ],
+  "sweets":[
+    {
+      "name": "Ice Cream Scoop",
+      "price": "5",
+      "img": ""
+    }
+  ] 
+  ,
   "drinks": [
     {
-      "name": "Soft Drink",
-      "price": "4",
-      "category": "drink"
+      "name": " Elderberry Lemonade",
+      "price": "5",
+      "category": "drink",
+      "img": ""
+    },
+    {
+      "name": "Black Elderberry Lemonade",
+      "price": "5",
+      "category": "drink",
+      "img": ""
     }
     
+  ],
+  "edibles": [
+    {
+      "name": "Cookies (2)",
+      "price": "7",
+      "img": ""
+    },
+    {
+      "name": "Brownie",
+      "price": "7",
+      "img": ""
+    }
+
   ]
 }
