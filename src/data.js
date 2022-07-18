@@ -79,7 +79,7 @@ export const items =
     {
       "name": "Donut",
       "description": "Choose between Glazed, Powdered or Cocoa",
-      "price": "3",
+      "price": "2",
       "img": require("./assets/menu-items/donut.JPG"),
       "dietary":[],
       "avail":true
@@ -104,9 +104,9 @@ export const items =
     },
   
     {
-      "name": "Cookies",
+      "name": "Cookie",
       "description": "Assorted flavors, ask what flavors we have today!",
-      "price": "2",
+      "price": "2.5",
       "img": require("./assets/menu-items/cookies.JPG"),
       "dietary":[],
       "avail":true

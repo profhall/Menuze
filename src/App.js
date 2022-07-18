@@ -2,11 +2,13 @@ import React from "react";
 import Logo from "./components/Logo";
 import Mains from "./components/Mains";
 import Extras from "./components/Extras";
-// import Total from "./components/Total";
 import { Provider } from "./Context";
+import StartFirebase  from "./dbconnect/fbase";
 import  * as data from "./data.js";
 let menu = data.items
 import "./styles.css";
+
+StartFirebase()
 
 export default function App() {
   console.log(menu.mains)
@@ -20,7 +22,6 @@ export default function App() {
           {/* <Extras type="Edibles" items={menu.edibles}  /> */}
           {/* <Extras type="Drinks" items={menu.drinks}  /> */}
         {/* </aside>  */}
-        {/* <Total /> */}
       </div>
     </Provider>
   );
