@@ -16,10 +16,10 @@ export default function App() {
         <Logo />
         <h2>100% Vegan Soul Fusion Food</h2>
         <Mains meals={menu.mains} />
-        <aside className="aside">
-          <Extras type="Edibles" items={menu.edibles}  />
-          <Extras type="Drinks" items={menu.drinks}  />
-        </aside>
+        {/* <aside className="aside">
+          {/* <Extras type="Edibles" items={menu.edibles}  /> */}
+          {/* <Extras type="Drinks" items={menu.drinks}  /> */}
+        {/* </aside>  */}
         {/* <Total /> */}
       </div>
     </Provider>

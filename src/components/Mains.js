@@ -17,30 +17,30 @@ export default function Mains({ meals }) {
   return (
     <section className="mains">
       
-      {meals.map((meal, index) => (
-        <Card sx={{ maxWidth: 345 }} key={index}>
+      {meals.map((meal, index) => {
+        if (meal.avail) {
+          return(<Card sx={{ maxWidth: 545 }} key={index} className="menu-item">
         <CardHeader
           title={meal.name}
           subheader={`$ ${meal.price}`}
         />
        <CardMedia
           component={meal.img?"img":""}
-          height="194"
+          height="250"
           image={meal.img}
           alt={meal.name}
+
         /> 
         <CardContent>
           <Typography variant="body2" color="text.secondary">
           {meal.description }
           </Typography>
         </CardContent>
-        <CardActions disableSpacing>
-          <IconButton aria-label="share">
-            <ShareIcon />
-          </IconButton>
-        </CardActions>
-      </Card>
-        ))}
+        
+        </Card>)
+        }
+        
+      })}
     </section>
 
   );
