@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.7bd34c34.css",
-    "main.js": "/Menuze/static/js/main.4063948c.js",
+    "main.js": "/Menuze/static/js/main.7c2fd2d6.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
     "static/media/tacos_seafood.jpeg": "/Menuze/static/media/tacos_seafood.05bea5d078b89199c159.jpeg",
     "static/media/nachos1.jpeg": "/Menuze/static/media/nachos1.e6618c5a69d11942f1f3.jpeg",
@@ -17,15 +17,16 @@
     "static/media/patties.png": "/Menuze/static/media/patties.18bbc8d5866c3dc99b89.png",
     "static/media/greens.jpeg": "/Menuze/static/media/greens.27f8e6e8cee0abad60ec.jpeg",
     "static/media/lemonade.JPG": "/Menuze/static/media/lemonade.7e03c9235795242a5ae2.JPG",
+    "static/media/slider.jpg": "/Menuze/static/media/slider.5f9cc64d2538e31a8ff7.jpg",
     "static/media/charcoal-lemonade-2.jpg": "/Menuze/static/media/charcoal-lemonade-2.bbe2bf24a519af356d0e.jpg",
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
     "main.7bd34c34.css.map": "/Menuze/static/css/main.7bd34c34.css.map",
-    "main.4063948c.js.map": "/Menuze/static/js/main.4063948c.js.map",
+    "main.7c2fd2d6.js.map": "/Menuze/static/js/main.7c2fd2d6.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd34c34.css",
-    "static/js/main.4063948c.js"
+    "static/js/main.7c2fd2d6.js"
   ]
 }
