@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.7bd34c34.css",
-    "main.js": "/Menuze/static/js/main.7c2fd2d6.js",
+    "main.js": "/Menuze/static/js/main.264083d0.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
     "static/media/tacos_seafood.jpeg": "/Menuze/static/media/tacos_seafood.05bea5d078b89199c159.jpeg",
     "static/media/nachos1.jpeg": "/Menuze/static/media/nachos1.e6618c5a69d11942f1f3.jpeg",
     "static/media/ice_cream.jpeg": "/Menuze/static/media/ice_cream.ab9a4702c2b8c3d47864.jpeg",
     "static/media/cake.jpeg": "/Menuze/static/media/cake.c5180e74bb517612efc5.jpeg",
     "static/media/taquitos2.PNG": "/Menuze/static/media/taquitos2.c37cd307d104e13c35a2.PNG",
+    "static/media/buffNachos.jpeg": "/Menuze/static/media/buffNachos.1d3fe143b158e635a77b.jpeg",
+    "static/media/bbqNachos.jpeg": "/Menuze/static/media/bbqNachos.abbeec5c601c291b38b3.jpeg",
     "static/media/mac.jpeg": "/Menuze/static/media/mac.20ac8b2aa111c51511b6.jpeg",
     "static/media/donut.JPG": "/Menuze/static/media/donut.ec9517c737e69a0c3b27.JPG",
     "static/media/cookies.JPG": "/Menuze/static/media/cookies.5f2f5815f018e7786f73.JPG",
     "static/media/yams.jpeg": "/Menuze/static/media/yams.e5041ca52438149a59b0.jpeg",
     "static/media/quesa_tacos.png": "/Menuze/static/media/quesa_tacos.ce2bfb8b7a4ca5e5770a.png",
-    "static/media/buff_nachos.png": "/Menuze/static/media/buff_nachos.e2b0f874d69e9bb040bd.png",
     "static/media/patties.png": "/Menuze/static/media/patties.18bbc8d5866c3dc99b89.png",
     "static/media/greens.jpeg": "/Menuze/static/media/greens.27f8e6e8cee0abad60ec.jpeg",
     "static/media/lemonade.JPG": "/Menuze/static/media/lemonade.7e03c9235795242a5ae2.JPG",
@@ -22,11 +23,11 @@
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
     "main.7bd34c34.css.map": "/Menuze/static/css/main.7bd34c34.css.map",
-    "main.7c2fd2d6.js.map": "/Menuze/static/js/main.7c2fd2d6.js.map",
+    "main.264083d0.js.map": "/Menuze/static/js/main.264083d0.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd34c34.css",
-    "static/js/main.7c2fd2d6.js"
+    "static/js/main.264083d0.js"
   ]
 }
