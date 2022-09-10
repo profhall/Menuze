@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.7bd34c34.css",
-    "main.js": "/Menuze/static/js/main.63bf238b.js",
+    "main.js": "/Menuze/static/js/main.70b65c3e.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
     "static/media/tacos_seafood.jpeg": "/Menuze/static/media/tacos_seafood.05bea5d078b89199c159.jpeg",
     "static/media/nachos1.jpeg": "/Menuze/static/media/nachos1.e6618c5a69d11942f1f3.jpeg",
@@ -9,6 +9,7 @@
     "static/media/cake.jpeg": "/Menuze/static/media/cake.c5180e74bb517612efc5.jpeg",
     "static/media/taquitos2.PNG": "/Menuze/static/media/taquitos2.c37cd307d104e13c35a2.PNG",
     "static/media/buffNachos.jpeg": "/Menuze/static/media/buffNachos.1d3fe143b158e635a77b.jpeg",
+    "static/media/Buff_Grilled_Cheese.jpeg": "/Menuze/static/media/Buff_Grilled_Cheese.da4190428ddaab4936a1.jpeg",
     "static/media/bbqNachos.jpeg": "/Menuze/static/media/bbqNachos.abbeec5c601c291b38b3.jpeg",
     "static/media/mac.jpeg": "/Menuze/static/media/mac.20ac8b2aa111c51511b6.jpeg",
     "static/media/donut.JPG": "/Menuze/static/media/donut.ec9517c737e69a0c3b27.JPG",
@@ -16,19 +17,21 @@
     "static/media/yams.jpeg": "/Menuze/static/media/yams.e5041ca52438149a59b0.jpeg",
     "static/media/quesa_tacos.png": "/Menuze/static/media/quesa_tacos.ce2bfb8b7a4ca5e5770a.png",
     "static/media/instagram-logo.png": "/Menuze/static/media/instagram-logo.acfef33a418951bd3b6a.png",
+    "static/media/BBQ_Grilled_Cheese.jpeg": "/Menuze/static/media/BBQ_Grilled_Cheese.3fa085ab5de6e8051427.jpeg",
     "static/media/patties.png": "/Menuze/static/media/patties.18bbc8d5866c3dc99b89.png",
     "static/media/greens.jpeg": "/Menuze/static/media/greens.27f8e6e8cee0abad60ec.jpeg",
+    "static/media/Strawberry.jpeg": "/Menuze/static/media/Strawberry.f3e6e51a39a032f9148a.jpeg",
     "static/media/lemonade.JPG": "/Menuze/static/media/lemonade.7e03c9235795242a5ae2.JPG",
     "static/media/slider.jpg": "/Menuze/static/media/slider.5f9cc64d2538e31a8ff7.jpg",
     "static/media/charcoal-lemonade-2.jpg": "/Menuze/static/media/charcoal-lemonade-2.bbe2bf24a519af356d0e.jpg",
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
     "main.7bd34c34.css.map": "/Menuze/static/css/main.7bd34c34.css.map",
-    "main.63bf238b.js.map": "/Menuze/static/js/main.63bf238b.js.map",
+    "main.70b65c3e.js.map": "/Menuze/static/js/main.70b65c3e.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd34c34.css",
-    "static/js/main.63bf238b.js"
+    "static/js/main.70b65c3e.js"
   ]
 }
