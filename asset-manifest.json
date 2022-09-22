@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.7bd34c34.css",
-    "main.js": "/Menuze/static/js/main.70b65c3e.js",
+    "main.js": "/Menuze/static/js/main.d0068ed1.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
     "static/media/tacos_seafood.jpeg": "/Menuze/static/media/tacos_seafood.05bea5d078b89199c159.jpeg",
     "static/media/nachos1.jpeg": "/Menuze/static/media/nachos1.e6618c5a69d11942f1f3.jpeg",
@@ -27,11 +27,11 @@
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
     "main.7bd34c34.css.map": "/Menuze/static/css/main.7bd34c34.css.map",
-    "main.70b65c3e.js.map": "/Menuze/static/js/main.70b65c3e.js.map",
+    "main.d0068ed1.js.map": "/Menuze/static/js/main.d0068ed1.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd34c34.css",
-    "static/js/main.70b65c3e.js"
+    "static/js/main.d0068ed1.js"
   ]
 }
