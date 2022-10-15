@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Menuze/static/css/main.7bd34c34.css",
-    "main.js": "/Menuze/static/js/main.de1247ca.js",
+    "main.css": "/Menuze/static/css/main.dfed0e7f.css",
+    "main.js": "/Menuze/static/js/main.e72ad5b1.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
+    "static/media/soulPlate.jpeg": "/Menuze/static/media/soulPlate.40d20aaed83a517d0130.jpeg",
     "static/media/tacos_seafood.jpeg": "/Menuze/static/media/tacos_seafood.05bea5d078b89199c159.jpeg",
     "static/media/nachos1.jpeg": "/Menuze/static/media/nachos1.e6618c5a69d11942f1f3.jpeg",
     "static/media/ice_cream.jpeg": "/Menuze/static/media/ice_cream.ab9a4702c2b8c3d47864.jpeg",
@@ -22,17 +23,16 @@
     "static/media/BBQ_Grilled_Cheese.jpeg": "/Menuze/static/media/BBQ_Grilled_Cheese.3fa085ab5de6e8051427.jpeg",
     "static/media/patties.png": "/Menuze/static/media/patties.18bbc8d5866c3dc99b89.png",
     "static/media/greens.jpeg": "/Menuze/static/media/greens.27f8e6e8cee0abad60ec.jpeg",
-    "static/media/Strawberry.jpeg": "/Menuze/static/media/Strawberry.f3e6e51a39a032f9148a.jpeg",
     "static/media/lemonade.JPG": "/Menuze/static/media/lemonade.7e03c9235795242a5ae2.JPG",
     "static/media/charcoal-lemonade-2.jpg": "/Menuze/static/media/charcoal-lemonade-2.bbe2bf24a519af356d0e.jpg",
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
-    "main.7bd34c34.css.map": "/Menuze/static/css/main.7bd34c34.css.map",
-    "main.de1247ca.js.map": "/Menuze/static/js/main.de1247ca.js.map",
+    "main.dfed0e7f.css.map": "/Menuze/static/css/main.dfed0e7f.css.map",
+    "main.e72ad5b1.js.map": "/Menuze/static/js/main.e72ad5b1.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bd34c34.css",
-    "static/js/main.de1247ca.js"
+    "static/css/main.dfed0e7f.css",
+    "static/js/main.e72ad5b1.js"
   ]
 }
