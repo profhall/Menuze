@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.dfed0e7f.css",
-    "main.js": "/Menuze/static/js/main.e72ad5b1.js",
+    "main.js": "/Menuze/static/js/main.bfbfb5db.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
     "static/media/soulPlate.jpeg": "/Menuze/static/media/soulPlate.40d20aaed83a517d0130.jpeg",
+    "static/media/soulWrap.jpeg": "/Menuze/static/media/soulWrap.27914bb2d19f0878adfe.jpeg",
     "static/media/tacos_seafood.jpeg": "/Menuze/static/media/tacos_seafood.05bea5d078b89199c159.jpeg",
     "static/media/nachos1.jpeg": "/Menuze/static/media/nachos1.e6618c5a69d11942f1f3.jpeg",
     "static/media/ice_cream.jpeg": "/Menuze/static/media/ice_cream.ab9a4702c2b8c3d47864.jpeg",
@@ -28,11 +29,11 @@
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
     "main.dfed0e7f.css.map": "/Menuze/static/css/main.dfed0e7f.css.map",
-    "main.e72ad5b1.js.map": "/Menuze/static/js/main.e72ad5b1.js.map",
+    "main.bfbfb5db.js.map": "/Menuze/static/js/main.bfbfb5db.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfed0e7f.css",
-    "static/js/main.e72ad5b1.js"
+    "static/js/main.bfbfb5db.js"
   ]
 }
