@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.dfed0e7f.css",
-    "main.js": "/Menuze/static/js/main.a5016f1d.js",
+    "main.js": "/Menuze/static/js/main.01bc5879.js",
     "static/js/787.de714cd8.chunk.js": "/Menuze/static/js/787.de714cd8.chunk.js",
     "static/media/soulPlate.jpeg": "/Menuze/static/media/soulPlate.40d20aaed83a517d0130.jpeg",
     "static/media/soulWrap.jpeg": "/Menuze/static/media/soulWrap.27914bb2d19f0878adfe.jpeg",
@@ -12,6 +12,7 @@
     "static/media/cake.jpeg": "/Menuze/static/media/cake.c5180e74bb517612efc5.jpeg",
     "static/media/taquitos2.PNG": "/Menuze/static/media/taquitos2.c37cd307d104e13c35a2.PNG",
     "static/media/buffNachos.jpeg": "/Menuze/static/media/buffNachos.1d3fe143b158e635a77b.jpeg",
+    "static/media/phish_sandwich.PNG": "/Menuze/static/media/phish_sandwich.968939886c297a8301e0.PNG",
     "static/media/Buff_Grilled_Cheese.jpeg": "/Menuze/static/media/Buff_Grilled_Cheese.da4190428ddaab4936a1.jpeg",
     "static/media/bbqNachos.jpeg": "/Menuze/static/media/bbqNachos.abbeec5c601c291b38b3.jpeg",
     "static/media/mac.jpeg": "/Menuze/static/media/mac.20ac8b2aa111c51511b6.jpeg",
@@ -29,11 +30,11 @@
     "static/media/Logo.png": "/Menuze/static/media/Logo.4855583cf94099326a7e.png",
     "index.html": "/Menuze/index.html",
     "main.dfed0e7f.css.map": "/Menuze/static/css/main.dfed0e7f.css.map",
-    "main.a5016f1d.js.map": "/Menuze/static/js/main.a5016f1d.js.map",
+    "main.01bc5879.js.map": "/Menuze/static/js/main.01bc5879.js.map",
     "787.de714cd8.chunk.js.map": "/Menuze/static/js/787.de714cd8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfed0e7f.css",
-    "static/js/main.a5016f1d.js"
+    "static/js/main.01bc5879.js"
   ]
 }
