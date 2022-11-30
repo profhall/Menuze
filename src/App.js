@@ -1,9 +1,15 @@
 import React, { useState } from 'react'
 import Menu from './Menu'
-import Categories from './Categories'
-import items from './data'
+import Logo from "./components/Logo";
 
-const allCategories = ['all', ...new Set(items.map((item) => item.category))]
+import Categories from './Categories'
+import items from './data_'
+
+const allCategories = ['all', ...new Set(items.map((item) => { if (item.avail) return item.category}))].filter(function( element ) {
+  return element !== undefined;
+})
+
+console.log(allCategories)
 
 function App() {
   const [menuItems, setMenuItems] = useState(items)
@@ -21,7 +27,12 @@ function App() {
     <main>
       <section className="menu section">
         <div className="title">
-          <h2>our menu</h2>
+          <Logo />
+          <h3>100% Vegan Soul Fusion Food</h3>
+          <h4>sides are $5 individually</h4>
+          <h4><a target={"_blank"} href="https://www.instagram.com/thetastyplantbased.kitchen/">Follow Us On Instagram</a></h4>
+
+
           <div className="underline"></div>
         </div>
         <Categories categories={categories} filterItems={filterItems} />
