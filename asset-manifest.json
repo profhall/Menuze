@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Menuze/static/css/main.42b3b8ab.chunk.css",
-    "main.js": "/Menuze/static/js/main.78e0f07d.chunk.js",
-    "main.js.map": "/Menuze/static/js/main.78e0f07d.chunk.js.map",
+    "main.js": "/Menuze/static/js/main.f41d2e9d.chunk.js",
+    "main.js.map": "/Menuze/static/js/main.f41d2e9d.chunk.js.map",
     "runtime-main.js": "/Menuze/static/js/runtime-main.87ad5ef2.js",
     "runtime-main.js.map": "/Menuze/static/js/runtime-main.87ad5ef2.js.map",
     "static/js/2.b5828a75.chunk.js": "/Menuze/static/js/2.b5828a75.chunk.js",
     "static/js/2.b5828a75.chunk.js.map": "/Menuze/static/js/2.b5828a75.chunk.js.map",
     "index.html": "/Menuze/index.html",
-    "precache-manifest.2d85529c75f37a4731ec1b31e04f5dfe.js": "/Menuze/precache-manifest.2d85529c75f37a4731ec1b31e04f5dfe.js",
+    "precache-manifest.c2aa0e05214ecea6c53fed4b904e8465.js": "/Menuze/precache-manifest.c2aa0e05214ecea6c53fed4b904e8465.js",
     "service-worker.js": "/Menuze/service-worker.js",
     "static/css/main.42b3b8ab.chunk.css.map": "/Menuze/static/css/main.42b3b8ab.chunk.css.map",
     "static/js/2.b5828a75.chunk.js.LICENSE.txt": "/Menuze/static/js/2.b5828a75.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.87ad5ef2.js",
     "static/js/2.b5828a75.chunk.js",
     "static/css/main.42b3b8ab.chunk.css",
-    "static/js/main.78e0f07d.chunk.js"
+    "static/js/main.f41d2e9d.chunk.js"
   ]
 }
