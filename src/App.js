@@ -30,6 +30,7 @@ function App() {
           <Logo />
           <h3>100% Vegan Soul Fusion Food</h3>
           <h4>sides are $5 individually</h4>
+          <h4><u>Tax not included in price</u></h4>
           <h4><a target={"_blank"} href="https://www.instagram.com/thetastyplantbased.kitchen/">Follow Us On Instagram</a></h4>
 
 

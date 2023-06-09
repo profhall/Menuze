@@ -21,7 +21,8 @@ const Menu = ({ items }) => {
       
 
         )}
-      })}
+      }
+      )}
     </div>
   )
 }
